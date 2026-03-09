@@ -1,2 +1,2 @@
-# DRL Lunar Lander
-Deep Reinforcement Learning implementation for Lunar Lander
+# DRL
+Deep Reinforcement Learning implementation 
